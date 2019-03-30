@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553816555931",
+    "firebase_url": "https://chatapllication-39a6c.firebaseio.com",
+    "project_id": "chatapllication-39a6c",
+    "storage_bucket": "chatapllication-39a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553816555931:android:0e35ad35097b2803",
+        "android_client_info": {
+          "package_name": "com.example.chatapllication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553816555931-r0uus8g41b59uuaibkd3lm4lda9ef7ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapllication",
+            "certificate_hash": "36db03eb6a522da2a7b8057b7bc1503338d3c9d4"
+          }
+        },
+        {
+          "client_id": "553816555931-c3a7d82d0kr57lt56pmisv5cka7l3fds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZHaK6jR3yg4T-hdPCOboCH-D7jQe9r1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553816555931-c3a7d82d0kr57lt56pmisv5cka7l3fds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    android:layout_margin="7dp"
+    android:background="@drawable/backchat">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Akshat"
+        android:textColor="#536dfe"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/tvname"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:textColor="#000000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="15dp"
+        android:id="@+id/tvmessage"
+        android:text="Message"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvtime"
+        android:textStyle="normal"
+        android:textColor="#000000"
+        android:layout_gravity="right"
+        android:gravity="bottom"
+        android:maxLines="1"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:textSize="12dp"
+        android:text="9:15 pm"/>
+
+</LinearLayout>
